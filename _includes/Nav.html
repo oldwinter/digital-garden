@@ -52,24 +52,21 @@
     
     <div id="navbarBasicExample" class="navbar-menu">
       <div class="navbar-start">
-        <a href="../note/HOMEPAGE" class="navbar-item">
+        <a href="{{ '/note/HOMEPAGE' | relative_url}}" class="navbar-item">
           主页
         </a>
-        <a href="../note/TOCs" class="navbar-item">
+        <a href="{{ '/note/TOCs' | relative_url}}" class="navbar-item">
           传统目录
         </a>
-        <a href="../note/MOCs" class="navbar-item">
+        <a href="{{ '/note/MOCs' | relative_url}}" class="navbar-item">
           现代MOC
         </a>
-        <a href="../note/个人简介" class="navbar-item">
+        <a href="{{ '/note/个人简介' | relative_url}}" class="navbar-item">
           关于我
         </a>
         <a href="https://github.com/oldwinter/knowledge-garden" target="_blank" class="navbar-item">
           Github
         </a>
-        <div>
-             
-        </div>
       </div>
       <div class="navbar-end is-hidden-mobile" onclick="modeSwitcher()" >
         <div class="navbar-item">

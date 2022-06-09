@@ -4,5 +4,8 @@ permalink: /lists
 title: List of Lists
 feedformat: row
 ---
+## aaa
+- lists
+- aa
 
-List of all list!
+- [[饥饿游戏]]

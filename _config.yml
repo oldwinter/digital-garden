@@ -27,16 +27,16 @@ baseurl: ""
 
 # Website Header, Description, Footer year and text. 
 # If you are deleting this, make sure you remove it from HTML files too 
-heading: Jekyll Garden # Change this 
+heading: oldwinterの数字花园 # Change this 
 content: Obsidian ready Jekyll Theme
 copyright:  
   year: © 2022
-  msg: Contents under CC-BY-NC 
+  msg: 没有版权，抄你想抄
 
 # Set title and content for private & broken link tooltop
 privatelinks:
-  title: Private or Broken Links
-  msg: The page you're looking for is either not available or private!
+  title: 链接词条未创建
+  msg: 挖坑一时爽💆🏻‍♀️，填坑火葬场🔥
 
 # Theme level preferences
 # To enable set "enabled : true" else, use "enabled:false"

@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 # URL is the base hostname with protocol for your site, eg http://example.com
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://oldwinter.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # If you want to install this jekyll in a subpath (eg /digitalgarden) set it here. 
 # Else keep it Empty (DON'T PUT /; Keep it empty)
@@ -31,7 +31,7 @@ heading: oldwinterの数字花园 # Change this
 content: Obsidian ready Jekyll Theme
 copyright:  
   year: © 2022
-  msg: 没有版权，抄你想抄
+  msg: 没有版权，拿你想拿
 
 # Set title and content for private & broken link tooltop
 privatelinks:
@@ -107,9 +107,13 @@ defaults:
 # their entries' file path in the `include:` list.
 #
 exclude:
-  - _notes/000 Inbox
-  - _notes/200 Private
-  - _notes/300 Templates
+  - _notes/Public/.github
+  - _notes/Public/.obsidian
+  - _notes/Public/.vscode
+  - _notes/Public/.draws
+  - _notes/Public/logseq
+  - _notes/Public/template
+  - _notes/Public/.gitignore
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/

@@ -31,7 +31,7 @@ heading: 🌱 oldwinterの数字花园 # Change this
 content: ✍🏻 Wirte by Obsidian and VSCode
 copyright:  
   year: © 2022
-  msg: 没有版权，拿你想拿
+  msg: no copyright
 
 # Set title and content for private & broken link tooltop
 privatelinks:
@@ -110,7 +110,7 @@ exclude:
   - _notes/Public/.github
   - _notes/Public/.obsidian
   - _notes/Public/.vscode
-  - _notes/Public/.draws
+  - _notes/Public/draws
   - _notes/Public/logseq
   - _notes/Public/template
   - _notes/Public/.gitignore

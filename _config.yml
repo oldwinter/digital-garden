@@ -110,9 +110,8 @@ exclude:
   - _notes/Public/.github
   - _notes/Public/.obsidian
   - _notes/Public/.vscode
-  - _notes/Public/draws
   - _notes/Public/logseq
-  - _notes/Public/template
+  - _notes/Public/Extras
   - _notes/Public/.gitignore
 #   - .sass-cache/
 #   - .jekyll-cache/
